@@ -4,3 +4,9 @@
 # to store the data.
 
 library(worcs)
+
+penguins <- read.csv("../penguins.csv")
+
+#penguins <- palmerpenguins::penguins
+
+closed_data(iris)
