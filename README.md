@@ -5,6 +5,7 @@
 ## Where do I start?
 
 You can load this project in RStudio by opening the file called 'penguins-eur.Rproj'.
+Here is more information about the project.
 
 ## Project structure
 
